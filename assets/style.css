@@ -1,0 +1,73 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: none;
+  }
+
+  * {
+     font-family: 'Inter', sans-serif;
+  }
+    /* Fonts */
+
+    h1 {
+        font-family: 'Playfair Display', serif;
+        font-size: 40px;
+    }
+
+    /* Fonts End */
+
+  /* Nav Bar */
+
+  .navbar-menu {
+      width: 50%;
+      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+      margin-left: 25%;
+      margin-right: 25%;
+      position:sticky
+      
+  }
+
+  .navbar-item a {
+    color: black;
+    font-size: 20px;
+    margin: 15px;
+  }
+
+
+  /* Nav Bar End */
+
+  /* Hero */
+
+  .dentistry-hero{
+      background-image: url(../images/Hero.jpg);
+      background-size: 100%;
+      background-repeat: no-repeat;
+  }
+
+  .hero-text {
+      width: 40%;
+      text-align: justify;
+      margin: 20px;
+    
+  }
+
+  .hero-text p {
+      color: white;
+      font-size: 20px;
+      text-shadow: 6px 2px 11px rgba(0,0,0,0.47);
+  }
+
+  .hero-text h2 {
+      color: white;
+      font-size: 60px;
+      text-shadow: 6px 2px 11px rgba(0,0,0,0.47)
+  }
+
+  .button {
+      margin: 5px;
+  }
+
+
+
+  /* Hero End */
