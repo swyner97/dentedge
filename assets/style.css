@@ -49,7 +49,7 @@
       width: 40%;
       text-align: justify;
       margin: 20px;
-      background: rgba(255, 255, 255, 0.5);
+      background: rgba(255, 255, 255, 0.8);
       padding: 20px;
       
   }
@@ -81,6 +81,7 @@
       border-radius: 2%;
       width: 20%;
       padding: 20px;
+      height: 25em;
   }
 
   .service h3 {
@@ -92,6 +93,7 @@
   .service p {
       font-size: 20px;
       margin-top: 5px;
+      text-align: justify;
       
   }
   .service-icon {
@@ -99,3 +101,19 @@
   }
 
   /* Services End */
+
+  /* Gallery */
+
+  .gallery-btn {
+      margin: 40px;
+  }
+
+  .gallery-statement {
+      font-size: 20px;
+  }
+
+  .preview-imgs {
+      width: 100%;
+  }
+
+  /* Gallery End */
