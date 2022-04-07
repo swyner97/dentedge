@@ -102,6 +102,31 @@ h1 {
 
 /* Services End */
 
+/* Why Dentedge Section */
+
+#welcome-text {
+    margin-left: 15%;
+    margin-right: 10%;
+    line-height: 2;
+    text-align: justify;
+    font-size: 20px;
+}
+
+.why-dentedge {
+    background-color: rgb(109, 241, 202);
+}
+
+#valued-patients {
+    font-weight: bold;
+}
+
+#doctor-img {
+    width: 100%;
+    height: fit-content;
+}
+
+/* Why Dentedge Section End*/
+
 /* Gallery */
 
 .gallery-btn {
@@ -110,6 +135,8 @@ h1 {
 
 .gallery-statement {
     font-size: 20px;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 .preview-imgs {
@@ -145,7 +172,8 @@ h4 {
 .socials-btn {
     background-color: rgb(109, 241, 202);
     width: 4em;
-   
+    cursor: pointer;
+
 }
 
 .socials {
