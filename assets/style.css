@@ -117,3 +117,30 @@
   }
 
   /* Gallery End */
+
+  /* footer */
+
+  .footer {
+      background-color: rgb(109, 241, 202);
+  }
+
+  h4 {
+      text-decoration: underline;
+      font-weight: bold;
+  }
+
+  .contact-container {
+      line-height: 2.0;
+  }
+
+  .address {
+      margin-top: 20px;
+  }
+
+  .our-services {
+    line-height: 2.0;
+  }
+  
+
+
+  /* footer end */
