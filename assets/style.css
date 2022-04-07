@@ -3,144 +3,161 @@
     margin: 0;
     padding: 0;
     border: none;
-  }
+}
 
-  * {
-     font-family: 'Inter', sans-serif;
-  }
-    /* Fonts */
+* {
+    font-family: 'Inter', sans-serif;
+}
 
-    h1 {
-        font-family: 'Playfair Display', serif;
-        font-size: 40px;
-    }
+/* Fonts */
 
-    /* Fonts End */
+h1 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+}
 
-  /* Nav Bar */
+/* Fonts End */
 
-  .navbar-menu {
-      width: 50%;
-      box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
-      margin-left: 25%;
-      margin-right: 25%;
-      position:sticky
-      
-  }
+/* Nav Bar */
 
-  .navbar-item a {
+.navbar-menu {
+    width: 50%;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    margin-left: 25%;
+    margin-right: 25%;
+    position: sticky
+}
+
+.navbar-item a {
     color: black;
     font-size: 20px;
     margin: 15px;
-  }
+}
 
 
-  /* Nav Bar End */
+/* Nav Bar End */
 
-  /* Hero */
+/* Hero */
 
-  .dentistry-hero{
-      background-image: url(../images/Hero.jpg);
-      background-size: 100%;
-      background-repeat: no-repeat;
-  }
+.dentistry-hero {
+    background-image: url(../images/Hero.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 
-  .hero-text {
-      width: 40%;
-      text-align: justify;
-      margin: 20px;
-      background: rgba(255, 255, 255, 0.8);
-      padding: 20px;
-      
-  }
+.hero-text {
+    width: 40%;
+    text-align: justify;
+    margin: 20px;
+    background: rgba(255, 255, 255, 0.8);
+    padding: 20px;
 
-  .hero-text p {
-      color: rgb(51, 50, 50);
-      font-size: 25px;
-      font-weight: 500;
-      ;
-      
-  }
+}
 
-  .hero-text h2 {
-      color: rgb(51, 50, 50);
-      font-size: 60px;
-      
-  }
+.hero-text p {
+    color: rgb(51, 50, 50);
+    font-size: 25px;
+    font-weight: 500;
+    ;
 
-  .button {
-      margin: 5px;
-  }
-  /* Hero End */
+}
 
-  /* Services */
+.hero-text h2 {
+    color: rgb(51, 50, 50);
+    font-size: 60px;
 
-  .service {
-      border-color: #C5FBE2;
-      border-style: solid;
-      border-radius: 2%;
-      width: 20%;
-      padding: 20px;
-      height: 25em;
-  }
+}
 
-  .service h3 {
-      font-size: 30px;
-      text-align: center;
-      margin: 5px;
-  }
+.button {
+    margin: 5px;
+}
 
-  .service p {
-      font-size: 20px;
-      margin-top: 5px;
-      text-align: justify;
-      
-  }
-  .service-icon {
- 
-  }
+/* Hero End */
 
-  /* Services End */
+/* Services */
 
-  /* Gallery */
+.service {
+    border-color: #C5FBE2;
+    border-style: solid;
+    border-radius: 2%;
+    width: 20%;
+    padding: 20px;
+    height: 25em;
+}
 
-  .gallery-btn {
-      margin: 40px;
-  }
+.service h3 {
+    font-size: 30px;
+    text-align: center;
+    margin: 5px;
+}
 
-  .gallery-statement {
-      font-size: 20px;
-  }
+.service p {
+    font-size: 20px;
+    margin-top: 5px;
+    text-align: justify;
 
-  .preview-imgs {
-      width: 100%;
-  }
+}
 
-  /* Gallery End */
+.service-icon {}
 
-  /* footer */
+/* Services End */
 
-  .footer {
-      background-color: rgb(109, 241, 202);
-  }
+/* Gallery */
 
-  h4 {
-      text-decoration: underline;
-      font-weight: bold;
-  }
+.gallery-btn {
+    margin: 40px;
+}
 
-  .contact-container {
-      line-height: 2.0;
-  }
+.gallery-statement {
+    font-size: 20px;
+}
 
-  .address {
-      margin-top: 20px;
-  }
+.preview-imgs {
+    width: 100%;
+}
 
-  .our-services {
+/* Gallery End */
+
+/* footer */
+
+.footer {
+    background-color: rgb(109, 241, 202);
+}
+
+h4 {
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.contact-container {
     line-height: 2.0;
-  }
-  
+}
+
+.address {
+    margin-top: 20px;
+}
+
+.our-services {
+    line-height: 2.0;
+}
+
+.socials-logo,
+button {
+    background-color: rgb(109, 241, 202);
+    width: 4em;
+   
+}
+
+.socials {
+    margin-top: 25px;
+}
 
 
-  /* footer end */
+
+
+
+
+
+
+
+/* footer end */
